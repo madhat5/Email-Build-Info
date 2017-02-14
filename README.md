@@ -19,3 +19,7 @@
 - https://github.com/mailgun/transactional-email-templates
 - https://github.com/leemunroe/responsive-html-email-template
 - https://htmlemail.io/
+- https://github.com/TedGoas/Cerberus
+  - http://tedgoas.github.io/Cerberus/
+- https://github.com/sendwithus/templates
+  - https://www.sendwithus.com/resources/templates
