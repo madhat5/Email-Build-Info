@@ -2,7 +2,6 @@
 
 
 ### Tutorials
-
 - https://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696
 - http://www.leemunroe.com/building-html-email/
 - https://litmus.com/blog/defining-and-understanding-mobile-email-approaches?utm_campaign=mobileemail_mediaqueries&utm_source=litmusblog&utm_medium=blog
@@ -14,3 +13,9 @@
 - https://github.com/leemunroe/grunt-email-workflow
 - https://github.com/ireade/gulp-email-workflow
 - https://github.com/koomai/bulletproof-email
+
+
+### Templates:
+- https://github.com/mailgun/transactional-email-templates
+- https://github.com/leemunroe/responsive-html-email-template
+- https://htmlemail.io/
