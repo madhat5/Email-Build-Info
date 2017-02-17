@@ -13,6 +13,7 @@
 - https://github.com/leemunroe/grunt-email-workflow
 - https://github.com/ireade/gulp-email-workflow
 - https://github.com/koomai/bulletproof-email
+- http://responsiveemailresources.com/
 
 
 ### Templates:
