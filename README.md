@@ -16,6 +16,7 @@
 
 
 ### Templates:
+- http://responsiveemailpatterns.com/
 - https://github.com/mailgun/transactional-email-templates
 - https://github.com/leemunroe/responsive-html-email-template
 - https://htmlemail.io/
